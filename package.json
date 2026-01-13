@@ -32,7 +32,7 @@
     "sinon-chai": "^3.5.0"
   },
   "dependencies": {
-    "@changesets/cli": "^2.22.0"
+    "@changesets/cli": "^2.29.6"
   },
   "packageManager": "pnpm@7.1.9",
   "resolutions": {
